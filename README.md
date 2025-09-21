@@ -1,4 +1,5 @@
-# Web-controlled-IoT-based-6DOF-Robotic-Arm-using-ESP32
+# 6DOF-Robotic-Arm-using-ESP32
+### Web-controlled-IoT-based-6DOF-Robotic-Arm-using-ESP32
 Here is an elaborated version of the theoretical explanation, aligned with your IoT-Based Wi-Fi Controlled 6 DOF Robotic Arm project. This expanded version includes deeper insights into control theory, servo operation, system architecture, and practical implications.
 
 Robotics combines mechanical systems, electronics, and control logic to replicate or augment human tasks through automation. Among the most versatile robotic mechanisms is the robotic arm, inspired by the biomechanics of the human arm. It finds wide usage in manufacturing, medical operations, hazardous environment handling, and educational purposes. This project focuses on the design and implementation of a 6 Degrees of Freedom (DOF) robotic arm, controlled wirelessly via an ESP32 microcontroller using Wi-Fi and a web-based interface.
@@ -757,3 +758,8 @@ void setServoPosition(int servoNum, int value) {
   }
 
 }
+
+### ATTACHED FILE
+[ROBOTIC ARM (1).docx](https://github.com/user-attachments/files/22452282/ROBOTIC.ARM.1.docx)
+[ROBOTIC_ARM_B2( GROUP 5 )_SMRUTI_RANJAN_ROUT (1).pptx](https://github.com/user-attachments/files/22452285/ROBOTIC_ARM_B2.GROUP.5._SMRUTI_RANJAN_ROUT.1.pptx)
+
