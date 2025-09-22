@@ -1,4 +1,10 @@
 # 6DOF-Robotic-Arm-using-ESP32
+
+
+
+
+
+
 ### Web-controlled-IoT-based-6DOF-Robotic-Arm-using-ESP32
 Here is an elaborated version of the theoretical explanation, aligned with your IoT-Based Wi-Fi Controlled 6 DOF Robotic Arm project. This expanded version includes deeper insights into control theory, servo operation, system architecture, and practical implications.
 
